@@ -3,7 +3,7 @@ using namespace std;
 /*
 Gven fabourte team
 gven number of games already played
-
+editing code github stuff and stuffffffff
 from remanng games determne all possble outcomes
 from possble outcomes determne number of favourte domnatons
 
