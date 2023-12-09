@@ -6,7 +6,7 @@ gven number of games already played
 editing code github stuff and stuffffffff
 from remanng games determne all possble outcomes
 from possble outcomes determne number of favourte domnatons
-
+editing code agian wozers omg
 condtons:
 all teams can onyl paly each other oncea
 \\\\\\\\\\\\\\\
