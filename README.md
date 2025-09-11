@@ -6,3 +6,43 @@ Sept 10, 2025
  -  Hopefully, one day this pays off and I actually get into Faang!!!
  -  Maybe I'll get lazy after 2 weeks and quit, who knows...
  -  I still barely know how to use GitHub!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dsf
