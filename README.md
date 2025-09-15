@@ -7,3 +7,6 @@ Sept 10, 2025
  -  Maybe I'll get lazy after 2 weeks and quit, who knows...
  -  I still barely know how to use GitHub!
 
+
+Sept 14, 2025
+- Goal for this journey will be to do 1 problem per day (any difficulty)
