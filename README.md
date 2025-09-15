@@ -9,4 +9,5 @@ Sept 10, 2025
 
 
 Sept 14, 2025
+- Figured out how to create files/folders and to upload code now
 - Goal for this journey will be to do 1 problem per day (any difficulty)
