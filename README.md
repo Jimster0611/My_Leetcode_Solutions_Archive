@@ -14,3 +14,7 @@ Sept 14, 2025
 
 Oct 3, 2025
 - Testing first commit from vs ide
+
+Oct 12, 2025
+- Leetcode once/twice a week on weeknds moving forward?
+- https://neetcode.io/practice?tab=neetcode250
