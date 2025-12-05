@@ -12,6 +12,7 @@ class Solution:
         def possible(number : int) -> bool:
             """
             have a list of booleans, t/f
+            code goated can't do optimized?
 
             """
             capacity = 0
