@@ -18,3 +18,7 @@ Oct 3, 2025
 Oct 12, 2025
 - Leetcode once/twice a week on weeknds moving forward?
 - https://neetcode.io/practice?tab=neetcode250
+
+Dec 20, 2025
+- Oki got absolutely railled by my exams, crazy backshots from both MATA 31 and CSCA 67 fuhh meee
+- Was able to do #2658 LeetCode problem using bfs from memory :D ty Tangey Pan
